@@ -53,7 +53,7 @@ The **Online Voting System** is a project designed to streamline the voting proc
 1. Start the Apache Tomcat server in Eclipse.
 2. Open a browser and navigate to:
    ```
-   http://localhost:8080/votinghub
+   http://localhost:8080/votinghub/instruct.jsp
    ```
 
 ---
